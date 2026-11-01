@@ -42,7 +42,7 @@ Si tu herramienta tiene un selector de opciones (por ejemplo `AskUserQuestion` e
 
 ## 3 · Escribí
 
-1. **`CLAUDE.md`**: reemplazá cada `{{...}}` con sus respuestas, en una línea cada uno. **Borrá el bloque de aviso** que empieza con *"¿Ves llaves dobles…"*. No cambies nada más del archivo.
+1. **`CLAUDE.md`**: reemplazá cada `{{...}}` con sus respuestas, en una línea cada uno; en el título de la sección, cambiá "(lo completa `/instalar`; el detalle vive en" por "(detalle en". **Borrá el bloque de aviso** que empieza con *"¿Ves llaves dobles…"*. No cambies nada más del archivo.
 2. **`RAW/AAAA-MM-DD-instalacion.md`**: las respuestas tal cual, como *"declaración de <nombre> del <fecha>"*. Es la fuente de todo lo que sigue.
 3. **`WIKI/yo.md`**: quién es, zona, tono, herramientas, decisiones que no delega, lo que más repite. Con link a la fuente.
 4. **`WIKI/negocio.md`**: tipo, etapa, qué vende, a quién, canales, y una sección **"Lo que todavía no sé"** con los huecos (precio, números, oferta principal…). Si la etapa es B o A, anotá el foco: **testeo diario** (una oferta por día, bien hecha, sabiendo qué se testea). Si es C o D: **marketing y escala**.
