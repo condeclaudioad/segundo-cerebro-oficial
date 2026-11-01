@@ -64,7 +64,6 @@ Las decisiones, los cambios de dirección y lo que necesita revisión quedan en 
 **1. Creá tu copia, privada.**
 Arriba a la derecha: **Use this template → Create a new repository → Private**.
 O por terminal, si tenés la CLI de GitHub:
-<!-- PENDIENTE DE CONFIRMAR: cuenta de GitHub desde la que se publica (condeclaudioad por defecto). -->
 ```bash
 gh repo create mi-cerebro --private --template condeclaudioad/segundo-cerebro-oficial --clone
 ```
