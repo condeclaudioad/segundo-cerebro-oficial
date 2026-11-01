@@ -1,0 +1,19 @@
+# Secretos: nunca al repo
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local de Claude Code (permisos y preferencias de tu máquina)
+.claude/settings.local.json
+
+# Archivos pesados: el cerebro es texto
+*.mp4
+*.mov
+*.wav
+*.m4a
